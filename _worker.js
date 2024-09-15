@@ -31,7 +31,7 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
-	https://raw.zhio.top/ip.csv
+	'https://raw.zhio.top/ip.csv',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
 
