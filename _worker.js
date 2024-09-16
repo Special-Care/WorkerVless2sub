@@ -13,7 +13,7 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.zhio.top/addressesapi.txt',
-	'https://ipupdate.baipiao.eu.org',
+	//'https://ipupdate.baipiao.eu.org',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
@@ -32,7 +32,7 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
-	//'https://raw.zhio.top/ip.csv',
+	'https://raw.zhio.top/ip.csv',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
 
